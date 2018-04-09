@@ -1,0 +1,34 @@
+﻿<Window x:Class="Milica_Tiodorovic_e3582013_rva.AddLine"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Milica_Tiodorovic_e3582013_rva"
+        mc:Ignorable="d"
+        Title="AddLine" Height="402" Width="530">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="141*"/>
+            <ColumnDefinition Width="551*"/>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Height="31" Margin="138,25,0,0" VerticalAlignment="Top" Width="108" Grid.ColumnSpan="2"/>
+        <ComboBox x:Name="comboBox_Copy" HorizontalAlignment="Left" Height="31" Margin="138,89,0,0" VerticalAlignment="Top" Width="108" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="34" Margin="138,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="35" Margin="138,211,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Grid.ColumnSpan="2"/>
+        <Label x:Name="label" Content="First node:" HorizontalAlignment="Left" Height="31" Margin="26,25,0,0" VerticalAlignment="Top" Width="91" Grid.ColumnSpan="2"/>
+        <Label x:Name="label_Copy" Content="Second node:" HorizontalAlignment="Left" Height="31" Margin="10,89,0,0" VerticalAlignment="Top" Width="107" Grid.ColumnSpan="2"/>
+        <Label x:Name="label_Copy1" Content="Name line:" HorizontalAlignment="Left" Height="31" Margin="26,151,0,0" VerticalAlignment="Top" Width="81" Grid.ColumnSpan="2"/>
+        <Label x:Name="label1" Content="Length line:" HorizontalAlignment="Left" Margin="26,210,0,0" VerticalAlignment="Top" Height="35" Width="91" Grid.ColumnSpan="2"/>
+        <Button x:Name="button" Content="OK" HorizontalAlignment="Left" Height="26" Margin="0,304,0,0" VerticalAlignment="Top" Width="38" Click="Ok" Grid.Column="1"/>
+        <Button x:Name="button_Copy" Content="Cancel" HorizontalAlignment="Left" Height="26" Margin="265,304,0,0" VerticalAlignment="Top" Width="52" Grid.Column="1" Click="Cancel"/>
+        <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Height="34" Margin="209,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Grid.Column="1"/>
+        <TextBox x:Name="textBox_Copy1" HorizontalAlignment="Left" Height="34" Margin="209,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Grid.Column="1"/>
+        <TextBox x:Name="textBox_Copy2" HorizontalAlignment="Left" Height="34" Margin="209,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Grid.Column="1"/>
+        <TextBox x:Name="textBox_Copy3" HorizontalAlignment="Left" Height="34" Margin="209,212,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Grid.Column="1"/>
+        <Label x:Name="label2" Content="gch:" Grid.Column="1" HorizontalAlignment="Left" Height="34" Margin="167,22,0,0" VerticalAlignment="Top" Width="37"/>
+        <Label x:Name="label2_Copy" Content="bch:" Grid.Column="1" HorizontalAlignment="Left" Height="31" Margin="167,89,0,0" VerticalAlignment="Top" Width="37"/>
+        <Label x:Name="label2_Copy1" Content="x:" Grid.Column="1" HorizontalAlignment="Left" Height="34" Margin="174,151,0,0" VerticalAlignment="Top" Width="30"/>
+        <Label x:Name="label2_Copy2" Content="r:" Grid.Column="1" HorizontalAlignment="Left" Height="34" Margin="174,212,0,0" VerticalAlignment="Top" Width="30"/>
+
+    </Grid>
+</Window>

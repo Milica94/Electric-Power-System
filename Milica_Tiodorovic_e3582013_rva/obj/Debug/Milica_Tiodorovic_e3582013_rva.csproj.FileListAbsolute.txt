@@ -1,0 +1,78 @@
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\bin\Debug\Milica_Tiodorovic_e3582013_rva.exe.config
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\MainWindow.g.cs
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Registracija.g.cs
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\App.g.cs
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva_MarkupCompile.cache
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva_MarkupCompile.lref
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\bin\Debug\Milica_Tiodorovic_e3582013_rva.exe
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\bin\Debug\Milica_Tiodorovic_e3582013_rva.pdb
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\MainWindow.baml
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Registracija.baml
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.g.resources
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.Properties.Resources.resources
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.csproj.GenerateResource.Cache
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.exe
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.pdb
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddTrafo.g.cs
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Tabele.g.cs
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddTrafo.baml
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Tabele.baml
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddCvor.g.cs
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddCvor.baml
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddACLine.g.cs
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddLine.g.cs
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddACLine.baml
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddLine.baml
+C:\Users\boya9\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\bin\Debug\Milica_Tiodorovic_e3582013_rva.exe.config
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.exe
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.pdb
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddACLine.g.cs
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddCvor.g.cs
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddLine.g.cs
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddTrafo.g.cs
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\MainWindow.g.cs
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Registracija.g.cs
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Tabele.g.cs
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\App.g.cs
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva_MarkupCompile.cache
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva_MarkupCompile.lref
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\bin\Debug\Milica_Tiodorovic_e3582013_rva.exe
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\bin\Debug\Milica_Tiodorovic_e3582013_rva.pdb
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddACLine.baml
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddCvor.baml
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddLine.baml
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddTrafo.baml
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\MainWindow.baml
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Registracija.baml
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Tabele.baml
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.g.resources
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.Properties.Resources.resources
+C:\Users\Milica\Desktop\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.csproj.GenerateResource.Cache
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\bin\Debug\Milica_Tiodorovic_e3582013_rva.exe.config
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.exe
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.pdb
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\bin\Debug\Milica_Tiodorovic_e3582013_rva.exe
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\bin\Debug\Milica_Tiodorovic_e3582013_rva.pdb
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.csprojResolveAssemblyReference.cache
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddACLine.g.cs
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddCvor.g.cs
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddLine.g.cs
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddTrafo.g.cs
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\MainWindow.g.cs
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Registracija.g.cs
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Tabele.g.cs
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\App.g.cs
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva_MarkupCompile.cache
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva_MarkupCompile.lref
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddACLine.baml
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddCvor.baml
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddLine.baml
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\AddTrafo.baml
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\MainWindow.baml
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Registracija.baml
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Tabele.baml
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.g.resources
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.Properties.Resources.resources
+E:\Fakultet\III godina\RVA\RVA-PROJEKAT\Milica_Tiodorovic_e3582013_rva\Milica_Tiodorovic_e3582013_rva\obj\Debug\Milica_Tiodorovic_e3582013_rva.csproj.GenerateResource.Cache

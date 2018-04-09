@@ -1,0 +1,31 @@
+﻿<Window x:Class="Milica_Tiodorovic_e3582013_rva.Registracija"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Milica_Tiodorovic_e3582013_rva"
+         mc:Ignorable="d"
+        Title="Projekat" Height="300" Width="300" ResizeMode="NoResize" WindowStyle="None"  AllowsTransparency="True"  WindowStartupLocation="CenterScreen">
+
+    <Grid Background="AntiqueWhite">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="17*"/>
+            <ColumnDefinition Width="154*"/>
+            <ColumnDefinition Width="99*"/>
+            <ColumnDefinition Width="6*"/>
+            <ColumnDefinition Width="18*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label" Content="Username:" HorizontalAlignment="Left" Height="27" Margin="27,22,0,0" VerticalAlignment="Top" Width="71" Grid.Column="1"/>
+        <TextBox x:Name="tB1" HorizontalAlignment="Left" Height="27" Margin="103,22,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="124"  Grid.ColumnSpan="2" Grid.Column="1"/>
+        <Label x:Name="label1" Content="Password:" HorizontalAlignment="Left" Margin="27,59,0,0" VerticalAlignment="Top" Width="71" Grid.Column="1"/>
+        <PasswordBox x:Name="tB2" HorizontalAlignment="Left" Height="27" Margin="103,58,0,0"   VerticalAlignment="Top" Width="124"  Grid.ColumnSpan="2" Grid.Column="1"/>
+        <Label x:Name="label_Copy" Content="Username:" HorizontalAlignment="Left" Height="27" Margin="27,153,0,0" VerticalAlignment="Top" Width="71" Grid.Column="1"/>
+        <TextBox x:Name="tB3" HorizontalAlignment="Left" Height="27" Margin="103,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124"  Grid.ColumnSpan="2" Grid.Column="1"/>
+        <Label x:Name="label1_Copy" Content="Password:" HorizontalAlignment="Left" Margin="27,190,0,0" VerticalAlignment="Top" Width="71" Grid.Column="1"/>
+        <PasswordBox x:Name="tB4" HorizontalAlignment="Left" Height="27" Margin="103,189,0,0"  VerticalAlignment="Top" Width="124"  Grid.ColumnSpan="2" Grid.Column="1"/>
+        <Button x:Name="button" Content="Sign up" HorizontalAlignment="Left" Height="32" Margin="21,104,0,0" VerticalAlignment="Top" Width="74" Grid.Column="2" Click="SignUp"/>
+        <Button x:Name="button_Copy" Content="Log in" HorizontalAlignment="Left" Height="32" Margin="21,227,0,0" VerticalAlignment="Top" Width="74"  Grid.Column="2" Click="LogIn"/>
+        <Button x:Name="button1" Content="X" Grid.Column="2" HorizontalAlignment="Left" Margin="85,0,0,278" Width="30" Grid.ColumnSpan="3" Click="Close"/>
+
+    </Grid>
+</Window>

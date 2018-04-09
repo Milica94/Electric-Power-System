@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<ArrayOfSubstation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Substation>
+    <aliasName>StanicaA</aliasName>
+    <description>proba</description>
+    <mRID>a414</mRID>
+    <name>Stanica</name>
+    <connectivityNodes />
+    <Equipments />
+    <VoltageLevels>
+      <VoltageLevel>
+        <aliasName>sub_a414_vl_StanicaA</aliasName>
+        <description>sub_-a414-_vl_-proba</description>
+        <mRID>sub_-a414-_vl_-a414</mRID>
+        <name>sub_-a414-_vl_-Stanica</name>
+        <connectivityNodes />
+        <Equipments />
+        <Bays />
+        <BaseVoltage>
+          <aliasName>sub_-a414_bv_StanicaA</aliasName>
+          <description>sub_-a414-_bv_-proba</description>
+          <mRID>sub_-a414-_bv_-a414</mRID>
+          <name>sub_-a414-_bv_-Stanica</name>
+          <ConductingEquipment />
+          <nominalVoltage>22</nominalVoltage>
+        </BaseVoltage>
+      </VoltageLevel>
+    </VoltageLevels>
+    <Bays />
+    <x>5</x>
+    <y>5</y>
+  </Substation>
+  <Substation>
+    <aliasName>stanicab</aliasName>
+    <description>prooba</description>
+    <mRID>a152</mRID>
+    <name>SatnicaB</name>
+    <connectivityNodes />
+    <Equipments />
+    <VoltageLevels>
+      <VoltageLevel>
+        <aliasName>sub_a152_vl_stanicab</aliasName>
+        <description>sub_-a152-_vl_-prooba</description>
+        <mRID>sub_-a152-_vl_-a152</mRID>
+        <name>sub_-a152-_vl_-SatnicaB</name>
+        <connectivityNodes />
+        <Equipments />
+        <Bays />
+        <BaseVoltage>
+          <aliasName>sub_-a152_bv_stanicab</aliasName>
+          <description>sub_-a152-_bv_-prooba</description>
+          <mRID>sub_-a152-_bv_-a152</mRID>
+          <name>sub_-a152-_bv_-SatnicaB</name>
+          <ConductingEquipment />
+          <nominalVoltage>21</nominalVoltage>
+        </BaseVoltage>
+      </VoltageLevel>
+    </VoltageLevels>
+    <Bays />
+    <x>190</x>
+    <y>5</y>
+  </Substation>
+  <Substation>
+    <aliasName>StanicaA</aliasName>
+    <description>clone_a414</description>
+    <mRID>a258be4f1</mRID>
+    <name>Stanica</name>
+    <connectivityNodes />
+    <Equipments />
+    <VoltageLevels>
+      <VoltageLevel>
+        <aliasName>sub_a414_vl_StanicaA</aliasName>
+        <description>sub_-a414-_vl_-proba</description>
+        <mRID>sub_-a414-_vl_-a414</mRID>
+        <name>sub_-a414-_vl_-Stanica</name>
+        <connectivityNodes />
+        <Equipments />
+        <Bays />
+        <BaseVoltage>
+          <aliasName>sub_-a414_bv_StanicaA</aliasName>
+          <description>sub_-a414-_bv_-proba</description>
+          <mRID>sub_-a414-_bv_-a414</mRID>
+          <name>sub_-a414-_bv_-Stanica</name>
+          <ConductingEquipment />
+          <nominalVoltage>22</nominalVoltage>
+        </BaseVoltage>
+      </VoltageLevel>
+    </VoltageLevels>
+    <Bays />
+    <x>5</x>
+    <y>5</y>
+  </Substation>
+  <Substation>
+    <aliasName>rs</aliasName>
+    <description>s</description>
+    <mRID>a215</mRID>
+    <name>rer</name>
+    <connectivityNodes />
+    <Equipments />
+    <VoltageLevels>
+      <VoltageLevel>
+        <aliasName>sub_a215_vl_rs</aliasName>
+        <description>sub_-a215-_vl_-s</description>
+        <mRID>sub_-a215-_vl_-a215</mRID>
+        <name>sub_-a215-_vl_-rer</name>
+        <connectivityNodes />
+        <Equipments />
+        <Bays />
+        <BaseVoltage>
+          <aliasName>sub_-a215_bv_rs</aliasName>
+          <description>sub_-a215-_bv_-s</description>
+          <mRID>sub_-a215-_bv_-a215</mRID>
+          <name>sub_-a215-_bv_-rer</name>
+          <ConductingEquipment />
+          <nominalVoltage>21</nominalVoltage>
+        </BaseVoltage>
+      </VoltageLevel>
+    </VoltageLevels>
+    <Bays />
+    <x>5</x>
+    <y>5</y>
+  </Substation>
+  <Substation>
+    <aliasName>AAAAAAAAAAAAAAAAAA</aliasName>
+    <description>AAAAAAAAAAAAAAAAA</description>
+    <mRID>a494</mRID>
+    <name>AAAAAAAAAAAAAAAA</name>
+    <connectivityNodes />
+    <Equipments />
+    <VoltageLevels>
+      <VoltageLevel>
+        <aliasName>sub_a494_vl_AAAAAAAAAAAAAAAAAA</aliasName>
+        <description>sub_-a494-_vl_-AAAAAAAAAAAAAAAAA</description>
+        <mRID>sub_-a494-_vl_-a494</mRID>
+        <name>sub_-a494-_vl_-AAAAAAAAAAAAAAAA</name>
+        <connectivityNodes />
+        <Equipments />
+        <Bays />
+        <BaseVoltage>
+          <aliasName>sub_-a494_bv_AAAAAAAAAAAAAAAAAA</aliasName>
+          <description>sub_-a494-_bv_-AAAAAAAAAAAAAAAAA</description>
+          <mRID>sub_-a494-_bv_-a494</mRID>
+          <name>sub_-a494-_bv_-AAAAAAAAAAAAAAAA</name>
+          <ConductingEquipment />
+          <nominalVoltage>22</nominalVoltage>
+        </BaseVoltage>
+      </VoltageLevel>
+    </VoltageLevels>
+    <Bays />
+    <x>5</x>
+    <y>5</y>
+  </Substation>
+  <Substation>
+    <aliasName>BBBBBBBBBBBBBB</aliasName>
+    <description>BBBBBBBBBBBBBBB</description>
+    <mRID>a44</mRID>
+    <name>BBBBBBBBBBB</name>
+    <connectivityNodes />
+    <Equipments />
+    <VoltageLevels>
+      <VoltageLevel>
+        <aliasName>sub_a44_vl_BBBBBBBBBBBBBB</aliasName>
+        <description>sub_-a44-_vl_-BBBBBBBBBBBBBBB</description>
+        <mRID>sub_-a44-_vl_-a44</mRID>
+        <name>sub_-a44-_vl_-BBBBBBBBBBB</name>
+        <connectivityNodes />
+        <Equipments />
+        <Bays />
+        <BaseVoltage>
+          <aliasName>sub_-a44_bv_BBBBBBBBBBBBBB</aliasName>
+          <description>sub_-a44-_bv_-BBBBBBBBBBBBBBB</description>
+          <mRID>sub_-a44-_bv_-a44</mRID>
+          <name>sub_-a44-_bv_-BBBBBBBBBBB</name>
+          <ConductingEquipment />
+          <nominalVoltage>22</nominalVoltage>
+        </BaseVoltage>
+      </VoltageLevel>
+    </VoltageLevels>
+    <Bays />
+    <x>-1</x>
+    <y>-1</y>
+  </Substation>
+  <Substation>
+    <aliasName>wwwwww</aliasName>
+    <description>wwwwww</description>
+    <mRID>a567</mRID>
+    <name>www</name>
+    <connectivityNodes />
+    <Equipments />
+    <VoltageLevels>
+      <VoltageLevel>
+        <aliasName>sub_a567_vl_wwwwww</aliasName>
+        <description>sub_-a567-_vl_-wwwwww</description>
+        <mRID>sub_-a567-_vl_-a567</mRID>
+        <name>sub_-a567-_vl_-www</name>
+        <connectivityNodes />
+        <Equipments />
+        <Bays />
+        <BaseVoltage>
+          <aliasName>sub_-a567_bv_wwwwww</aliasName>
+          <description>sub_-a567-_bv_-wwwwww</description>
+          <mRID>sub_-a567-_bv_-a567</mRID>
+          <name>sub_-a567-_bv_-www</name>
+          <ConductingEquipment />
+          <nominalVoltage>22</nominalVoltage>
+        </BaseVoltage>
+      </VoltageLevel>
+    </VoltageLevels>
+    <Bays />
+    <x>-1</x>
+    <y>-1</y>
+  </Substation>
+  <Substation>
+    <aliasName>a</aliasName>
+    <description>a</description>
+    <mRID>a881</mRID>
+    <name>aaa222</name>
+    <connectivityNodes />
+    <Equipments />
+    <VoltageLevels>
+      <VoltageLevel>
+        <aliasName>sub_a881_vl_a</aliasName>
+        <description>sub_-a881-_vl_-a</description>
+        <mRID>sub_-a881-_vl_-a881</mRID>
+        <name>sub_-a881-_vl_-aaa222</name>
+        <connectivityNodes />
+        <Equipments />
+        <Bays />
+        <BaseVoltage>
+          <aliasName>sub_-a881_bv_a</aliasName>
+          <description>sub_-a881-_bv_-a</description>
+          <mRID>sub_-a881-_bv_-a881</mRID>
+          <name>sub_-a881-_bv_-aaa222</name>
+          <ConductingEquipment />
+          <nominalVoltage>22</nominalVoltage>
+        </BaseVoltage>
+      </VoltageLevel>
+    </VoltageLevels>
+    <Bays />
+    <x>-1</x>
+    <y>-1</y>
+  </Substation>
+  <Substation>
+    <aliasName>hbh</aliasName>
+    <description>b</description>
+    <mRID>a702</mRID>
+    <name>dfs</name>
+    <connectivityNodes />
+    <Equipments />
+    <VoltageLevels>
+      <VoltageLevel>
+        <aliasName>sub_a702_vl_hbh</aliasName>
+        <description>sub_-a702-_vl_-b</description>
+        <mRID>sub_-a702-_vl_-a702</mRID>
+        <name>sub_-a702-_vl_-dfs</name>
+        <connectivityNodes />
+        <Equipments />
+        <Bays />
+        <BaseVoltage>
+          <aliasName>sub_-a702_bv_hbh</aliasName>
+          <description>sub_-a702-_bv_-b</description>
+          <mRID>sub_-a702-_bv_-a702</mRID>
+          <name>sub_-a702-_bv_-dfs</name>
+          <ConductingEquipment />
+          <nominalVoltage>22</nominalVoltage>
+        </BaseVoltage>
+      </VoltageLevel>
+    </VoltageLevels>
+    <Bays />
+    <x>-1</x>
+    <y>-1</y>
+  </Substation>
+</ArrayOfSubstation>

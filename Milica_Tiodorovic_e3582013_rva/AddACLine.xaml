@@ -1,0 +1,42 @@
+﻿<Window x:Class="Milica_Tiodorovic_e3582013_rva.AddACLine"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Milica_Tiodorovic_e3582013_rva"
+        mc:Ignorable="d"
+        Title="AddACLine" Height="300" Width="600">
+    <Grid Margin="0,0,0,10">
+        <Button x:Name="button" Content="Dodaj" HorizontalAlignment="Left" Height="25" Margin="10,10,0,0" VerticalAlignment="Top" Width="72" Click="DodajLiniju"/>
+        <DataGrid x:Name="dataGrid" AutoGenerateColumns="False" ItemsSource="{Binding AClines}" HorizontalAlignment="Left" Height="138" Margin="10,111,0,0" VerticalAlignment="Top" Width="572">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="Name of line" Binding="{Binding name}"/>
+                <DataGridTextColumn Header="bch" Binding="{Binding bch}"/>
+                <DataGridTextColumn Header="gch" Binding="{Binding gch}"/>
+                <DataGridTextColumn Header="r" Binding="{Binding r}"/>
+                <DataGridTextColumn Header="x" Binding="{Binding x}"/>
+                <DataGridTextColumn Header="Length" Binding="{Binding length}"/>
+
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <Button x:Name="button1" Content="Brisi" HorizontalAlignment="Left" Height="25" Margin="10,40,0,0" VerticalAlignment="Top" Width="72" Click="Brisi"/>
+        <Button x:Name="button2" Content="Kopiraj" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top" Width="72" Height="26" Click="KlonirajLiniju"/>
+        <Button x:Name="button3"  Background="Transparent" BorderBrush="{x:Null}" HorizontalAlignment="Left" Height="55" Margin="351,10,0,0" VerticalAlignment="Top" Width="57" Click="Undo">
+            <Image Source="icons/undo.png">
+              
+                <Image.OpacityMask>
+                    <ImageBrush ImageSource="icons/undo.png"/>
+                </Image.OpacityMask>
+            </Image>
+        </Button>
+        <Button x:Name="button3_Copy"  Background="Transparent" BorderBrush="{x:Null}" HorizontalAlignment="Left" Height="55" Margin="451,10,0,0" VerticalAlignment="Top" Width="57" Click="Redo">
+            <Image Source="icons/Redo.png">
+                <Image.OpacityMask>
+                    <ImageBrush ImageSource="icons/Redo.png"/>
+                </Image.OpacityMask>
+            </Image>
+        </Button>
+    </Grid>
+</Window>

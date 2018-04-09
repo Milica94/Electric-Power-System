@@ -1,0 +1,753 @@
+<?xml version="1.0"?>
+<ArrayOfACLineSegment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ACLineSegment>
+    <mRID>923</mRID>
+    <name>linija12</name>
+    <terminali>
+      <Terminal>
+        <aliasName>A_Terminal 1</aliasName>
+        <description>opis</description>
+        <mRID>10</mRID>
+        <name>Terminal 1</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>AB</phases>
+        <ConnectivityNode>
+          <aliasName>dasdsa</aliasName>
+          <description>dsadsa</description>
+          <mRID>40</mRID>
+          <name>cvor</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>dasdsa</aliasName>
+            <description>dsadsa</description>
+            <mRID>448</mRID>
+            <name>cvor</name>
+            <ConductingEquipment />
+            <nominalVoltage>13</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+      <Terminal>
+        <aliasName>A_Terminal 2</aliasName>
+        <description>opis</description>
+        <mRID>88</mRID>
+        <name>Terminal 2</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>ABCN</phases>
+        <ConnectivityNode>
+          <aliasName>ew</aliasName>
+          <description>weq</description>
+          <mRID>190</mRID>
+          <name>cvor2</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>ew</aliasName>
+            <description>weq</description>
+            <mRID>341</mRID>
+            <name>cvor2</name>
+            <ConductingEquipment />
+            <nominalVoltage>13</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+    </terminali>
+    <length>12</length>
+    <bch>21212</bch>
+    <gch>21</gch>
+    <r>1221</r>
+    <x>12</x>
+  </ACLineSegment>
+  <ACLineSegment>
+    <mRID>872</mRID>
+    <name>gdg</name>
+    <terminali>
+      <Terminal>
+        <aliasName>A_Terminal 1</aliasName>
+        <description>opis</description>
+        <mRID>88</mRID>
+        <name>Terminal 1</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>AB</phases>
+        <ConnectivityNode>
+          <aliasName>ew</aliasName>
+          <description>weq</description>
+          <mRID>190</mRID>
+          <name>cvor2</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>ew</aliasName>
+            <description>weq</description>
+            <mRID>341</mRID>
+            <name>cvor2</name>
+            <ConductingEquipment />
+            <nominalVoltage>13</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+      <Terminal>
+        <aliasName>A_Terminal 2</aliasName>
+        <description>opis</description>
+        <mRID>27</mRID>
+        <name>Terminal 2</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>ABCN</phases>
+        <ConnectivityNode>
+          <aliasName>dasdsa</aliasName>
+          <description>dsadsa</description>
+          <mRID>40</mRID>
+          <name>cvor</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>dasdsa</aliasName>
+            <description>dsadsa</description>
+            <mRID>448</mRID>
+            <name>cvor</name>
+            <ConductingEquipment />
+            <nominalVoltage>13</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+    </terminali>
+    <length>32</length>
+    <bch>11</bch>
+    <gch>11</gch>
+    <r>1</r>
+    <x>11</x>
+  </ACLineSegment>
+  <ACLineSegment>
+    <mRID>326</mRID>
+    <name>lnijaA</name>
+    <terminali>
+      <Terminal>
+        <aliasName>A_Terminal 1</aliasName>
+        <description>opis</description>
+        <mRID>59</mRID>
+        <name>Terminal 1</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>AB</phases>
+        <ConnectivityNode>
+          <aliasName>nnn</aliasName>
+          <description>dsaf</description>
+          <mRID>10</mRID>
+          <name>StaniceA</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>nnn</aliasName>
+            <description>dsaf</description>
+            <mRID>267</mRID>
+            <name>StaniceA</name>
+            <ConductingEquipment />
+            <nominalVoltage>32</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+      <Terminal>
+        <aliasName>A_Terminal 2</aliasName>
+        <description>opis</description>
+        <mRID>81</mRID>
+        <name>Terminal 2</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>ABCN</phases>
+        <ConnectivityNode>
+          <aliasName>sdas</aliasName>
+          <description>dsa</description>
+          <mRID>141</mRID>
+          <name>cvorob</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>sdas</aliasName>
+            <description>dsa</description>
+            <mRID>451</mRID>
+            <name>cvorob</name>
+            <ConductingEquipment />
+            <nominalVoltage>32</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+    </terminali>
+    <length>8</length>
+    <bch>3</bch>
+    <gch>2</gch>
+    <r>3</r>
+    <x>3</x>
+  </ACLineSegment>
+  <ACLineSegment>
+    <mRID>383</mRID>
+    <name>eeeeeee</name>
+    <terminali>
+      <Terminal>
+        <aliasName>A_Terminal 1</aliasName>
+        <description>opis</description>
+        <mRID>15</mRID>
+        <name>Terminal 1</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>AB</phases>
+        <ConnectivityNode>
+          <aliasName>nnn</aliasName>
+          <description>dsaf</description>
+          <mRID>10</mRID>
+          <name>StaniceA</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>nnn</aliasName>
+            <description>dsaf</description>
+            <mRID>267</mRID>
+            <name>StaniceA</name>
+            <ConductingEquipment />
+            <nominalVoltage>32</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+      <Terminal>
+        <aliasName>A_Terminal 2</aliasName>
+        <description>opis</description>
+        <mRID>73</mRID>
+        <name>Terminal 2</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>ABCN</phases>
+        <ConnectivityNode>
+          <aliasName>sdas</aliasName>
+          <description>dsa</description>
+          <mRID>141</mRID>
+          <name>cvorob</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>sdas</aliasName>
+            <description>dsa</description>
+            <mRID>451</mRID>
+            <name>cvorob</name>
+            <ConductingEquipment />
+            <nominalVoltage>32</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+    </terminali>
+    <length>12</length>
+    <bch>22</bch>
+    <gch>21</gch>
+    <r>22</r>
+    <x>22</x>
+  </ACLineSegment>
+  <ACLineSegment>
+    <mRID>755</mRID>
+    <name>wwww</name>
+    <terminali>
+      <Terminal>
+        <aliasName>A_Terminal 1</aliasName>
+        <description>opis</description>
+        <mRID>11</mRID>
+        <name>Terminal 1</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>AB</phases>
+        <ConnectivityNode>
+          <aliasName>nodee</aliasName>
+          <description>hoh</description>
+          <mRID>119</mRID>
+          <name>node1</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>nodee</aliasName>
+            <description>hoh</description>
+            <mRID>518</mRID>
+            <name>node1</name>
+            <ConductingEquipment />
+            <nominalVoltage>12</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+      <Terminal>
+        <aliasName>A_Terminal 2</aliasName>
+        <description>opis</description>
+        <mRID>89</mRID>
+        <name>Terminal 2</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>ABCN</phases>
+        <ConnectivityNode>
+          <aliasName>yf</aliasName>
+          <description>j,vq</description>
+          <mRID>29</mRID>
+          <name>node2</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>yf</aliasName>
+            <description>j,vq</description>
+            <mRID>879</mRID>
+            <name>node2</name>
+            <ConductingEquipment />
+            <nominalVoltage>12</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+    </terminali>
+    <length>31</length>
+    <bch>12</bch>
+    <gch>12</gch>
+    <r>12</r>
+    <x>12</x>
+  </ACLineSegment>
+  <ACLineSegment>
+    <mRID>193</mRID>
+    <name>32</name>
+    <terminali>
+      <Terminal>
+        <aliasName>A_Terminal 1</aliasName>
+        <description>opis</description>
+        <mRID>54</mRID>
+        <name>Terminal 1</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>AB</phases>
+        <ConnectivityNode>
+          <aliasName>nodee</aliasName>
+          <description>hoh</description>
+          <mRID>119</mRID>
+          <name>node1</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>nodee</aliasName>
+            <description>hoh</description>
+            <mRID>518</mRID>
+            <name>node1</name>
+            <ConductingEquipment />
+            <nominalVoltage>12</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+      <Terminal>
+        <aliasName>A_Terminal 2</aliasName>
+        <description>opis</description>
+        <mRID>3</mRID>
+        <name>Terminal 2</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>ABCN</phases>
+        <ConnectivityNode>
+          <aliasName>yf</aliasName>
+          <description>j,vq</description>
+          <mRID>29</mRID>
+          <name>node2</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>yf</aliasName>
+            <description>j,vq</description>
+            <mRID>879</mRID>
+            <name>node2</name>
+            <ConductingEquipment />
+            <nominalVoltage>12</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+    </terminali>
+    <length>32</length>
+    <bch>31</bch>
+    <gch>23</gch>
+    <r>13</r>
+    <x>312</x>
+  </ACLineSegment>
+  <ACLineSegment>
+    <mRID>195</mRID>
+    <name>ew</name>
+    <terminali>
+      <Terminal>
+        <aliasName>A_Terminal 1</aliasName>
+        <description>opis</description>
+        <mRID>79</mRID>
+        <name>Terminal 1</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>AB</phases>
+        <ConnectivityNode>
+          <aliasName>yf</aliasName>
+          <description>j,vq</description>
+          <mRID>29</mRID>
+          <name>node2</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>yf</aliasName>
+            <description>j,vq</description>
+            <mRID>879</mRID>
+            <name>node2</name>
+            <ConductingEquipment />
+            <nominalVoltage>12</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+      <Terminal>
+        <aliasName>A_Terminal 2</aliasName>
+        <description>opis</description>
+        <mRID>38</mRID>
+        <name>Terminal 2</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>ABCN</phases>
+        <ConnectivityNode>
+          <aliasName>nodee</aliasName>
+          <description>hoh</description>
+          <mRID>a33e2dd61</mRID>
+          <name>node1</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>nodee</aliasName>
+            <description>hoh</description>
+            <mRID>518</mRID>
+            <name>node1</name>
+            <ConductingEquipment />
+            <nominalVoltage>12</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+    </terminali>
+    <length>21</length>
+    <bch>21</bch>
+    <gch>21</gch>
+    <r>21</r>
+    <x>12</x>
+  </ACLineSegment>
+  <ACLineSegment>
+    <mRID>636</mRID>
+    <name>LINEEEEEE</name>
+    <terminali>
+      <Terminal>
+        <aliasName>A_Terminal 1</aliasName>
+        <description>opis</description>
+        <mRID>33</mRID>
+        <name>Terminal 1</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>AB</phases>
+        <ConnectivityNode>
+          <aliasName>bbbbbbbbbbbb</aliasName>
+          <description>bbbbbbbbbbbb</description>
+          <mRID>a207</mRID>
+          <name>bbbbbbbbbbbbbbbbbb</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>bbbbbbbbbbbb</aliasName>
+            <description>bbbbbbbbbbbb</description>
+            <mRID>135</mRID>
+            <name>bbbbbbbbbbbbbbbbbb</name>
+            <ConductingEquipment />
+            <nominalVoltage>22</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+      <Terminal>
+        <aliasName>A_Terminal 2</aliasName>
+        <description>opis</description>
+        <mRID>61</mRID>
+        <name>Terminal 2</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>ABCN</phases>
+        <ConnectivityNode>
+          <aliasName>aaaaaaaaaaa</aliasName>
+          <description>aaaaaaaaaa</description>
+          <mRID>a263</mRID>
+          <name>aaaaaaaaaaaaa</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>aaaaaaaaaaa</aliasName>
+            <description>aaaaaaaaaa</description>
+            <mRID>472</mRID>
+            <name>aaaaaaaaaaaaa</name>
+            <ConductingEquipment />
+            <nominalVoltage>22</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+    </terminali>
+    <length>5</length>
+    <bch>2</bch>
+    <gch>2</gch>
+    <r>2</r>
+    <x>2</x>
+  </ACLineSegment>
+  <ACLineSegment>
+    <mRID>825</mRID>
+    <name>linija</name>
+    <terminali>
+      <Terminal>
+        <aliasName>A_Terminal 1</aliasName>
+        <description>opis</description>
+        <mRID>2</mRID>
+        <name>Terminal 1</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>AB</phases>
+        <ConnectivityNode>
+          <aliasName>aaaaaaaaaaa</aliasName>
+          <description>aaaaaaaaaa</description>
+          <mRID>a263</mRID>
+          <name>aaaaaaaaaaaaa</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>aaaaaaaaaaa</aliasName>
+            <description>aaaaaaaaaa</description>
+            <mRID>472</mRID>
+            <name>aaaaaaaaaaaaa</name>
+            <ConductingEquipment />
+            <nominalVoltage>22</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+      <Terminal>
+        <aliasName>A_Terminal 2</aliasName>
+        <description>opis</description>
+        <mRID>0</mRID>
+        <name>Terminal 2</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>ABCN</phases>
+        <ConnectivityNode>
+          <aliasName>bbbbbbbbbbbb</aliasName>
+          <description>bbbbbbbbbbbb</description>
+          <mRID>a207</mRID>
+          <name>bbbbbbbbbbbbbbbbbb</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>bbbbbbbbbbbb</aliasName>
+            <description>bbbbbbbbbbbb</description>
+            <mRID>135</mRID>
+            <name>bbbbbbbbbbbbbbbbbb</name>
+            <ConductingEquipment />
+            <nominalVoltage>22</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+    </terminali>
+    <length>5</length>
+    <bch>2</bch>
+    <gch>2</gch>
+    <r>2</r>
+    <x>2</x>
+  </ACLineSegment>
+  <ACLineSegment>
+    <mRID>707</mRID>
+    <name>h</name>
+    <terminali>
+      <Terminal>
+        <aliasName>A_Terminal 1</aliasName>
+        <description>opis</description>
+        <mRID>49</mRID>
+        <name>Terminal 1</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>AB</phases>
+        <ConnectivityNode>
+          <aliasName>aaaaaaaaaaa</aliasName>
+          <description>aaaaaaaaaa</description>
+          <mRID>a263</mRID>
+          <name>aaaaaaaaaaaaa</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>aaaaaaaaaaa</aliasName>
+            <description>aaaaaaaaaa</description>
+            <mRID>472</mRID>
+            <name>aaaaaaaaaaaaa</name>
+            <ConductingEquipment />
+            <nominalVoltage>22</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+      <Terminal>
+        <aliasName>A_Terminal 2</aliasName>
+        <description>opis</description>
+        <mRID>39</mRID>
+        <name>Terminal 2</name>
+        <connected>false</connected>
+        <sequenceNumber>1</sequenceNumber>
+        <phases>ABCN</phases>
+        <ConnectivityNode>
+          <aliasName>bbbbbbbbbbbb</aliasName>
+          <description>bbbbbbbbbbbb</description>
+          <mRID>a207</mRID>
+          <name>bbbbbbbbbbbbbbbbbb</name>
+          <x1>0</x1>
+          <y1>0</y1>
+          <m_BaseVoltage>
+            <aliasName>bbbbbbbbbbbb</aliasName>
+            <description>bbbbbbbbbbbb</description>
+            <mRID>135</mRID>
+            <name>bbbbbbbbbbbbbbbbbb</name>
+            <ConductingEquipment />
+            <nominalVoltage>22</nominalVoltage>
+          </m_BaseVoltage>
+          <x>-1</x>
+          <y>-1</y>
+          <X>0</X>
+          <Y>0</Y>
+        </ConnectivityNode>
+        <ConductingEquipment>
+          <terminali />
+        </ConductingEquipment>
+      </Terminal>
+    </terminali>
+    <length>5</length>
+    <bch>3</bch>
+    <gch>3</gch>
+    <r>3</r>
+    <x>3</x>
+  </ACLineSegment>
+</ArrayOfACLineSegment>
